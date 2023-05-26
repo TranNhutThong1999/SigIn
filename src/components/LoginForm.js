@@ -36,6 +36,9 @@ const LoginForm = () => {
                             required: true,
                             message: 'Please input your email!',
                         },
+                        {
+                            type: 'email',
+                        }
                     ]}
                 >
                     <Input className={'custom-input'} allowClear/>
