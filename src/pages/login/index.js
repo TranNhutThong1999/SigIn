@@ -19,7 +19,7 @@ export default () => {
                     <LoginForm/>
                 </div>
             </Col>
-            <Col xl={13} lg={13} md={0} sm={0} xs={0} className={'picture'}>
+            <Col xl={13} lg={13} md={0} sm={0} xs={0} className={'thumbnail-side'}>
                 <div style={{borderRadius: 40}}>
                     <Image preview={false} src={thumbnail}/>
                 </div>
