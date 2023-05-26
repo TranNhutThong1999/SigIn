@@ -2,7 +2,7 @@
 
 ## Description
 The SigIn web was created that based on the design template.
-Open the __DesignTemplate__ folder, that includes 3 files( images of web and mobile and figma file).
+Open the __DesignTemplate__ folder, it includes 3 files( images of web and mobile and figma file).
 
 ## Available Scripts
 
