@@ -4,6 +4,8 @@
 The SigIn web was created that based on the design template.
 Open the __DesignTemplate__ folder, it includes 3 files( images of web and mobile and figma file).
 
+Công nghệ sử dụng: ReactJS, Html, Css, Antd
+
 ## Available Scripts
 
 ### Step 1
